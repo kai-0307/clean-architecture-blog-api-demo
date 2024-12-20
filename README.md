@@ -1,1 +1,1 @@
-## Clean Architecture勉強用
+#Clean Architecture勉強用
