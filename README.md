@@ -1,1 +1,6 @@
-# Clean Architecture勉強用
+### Clean Architecture勉強用
+
+### メモ
+
+突貫工事で作ったので、コードが無茶苦茶
+後ほど全体的に修正する
